@@ -1,7 +1,7 @@
 # MovieDataAnalysis
 2023-1 데이터분석기초통계 프로젝트_데이터로 보는 성공적인 영화 프로모션 전략 배급사 부분
 
-https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/f4b74908-bf99-4d52-bd1a-acf1f68a10f5
+<img src="https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/f4b74908-bf99-4d52-bd1a-acf1f68a10f5">
 https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/37a2ccb6-0681-4805-8b6f-0a9b35f00831
 https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/ca0d59f6-fe67-4ff7-8062-3aa7e9526a32
 https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/43102155-ff14-42d0-bac8-a66744a1100b
