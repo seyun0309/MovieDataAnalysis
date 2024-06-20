@@ -1,5 +1,7 @@
 # MovieDataAnalysis
-2023-1 데이터분석기초통계 프로젝트_데이터로 보는 성공적인 영화 프로모션 전략 배급사 부분
+2023-1 데이터분석기초통계 프로젝트
+
+<b>데이터로 보는 성공적인 영화 프로모션 전략 배급사 부분<b>
 
 <img src="https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/f4b74908-bf99-4d52-bd1a-acf1f68a10f5">
 <img src="https://github.com/seyun0309/MovieDataAnalysis/assets/157377184/37a2ccb6-0681-4805-8b6f-0a9b35f00831">
